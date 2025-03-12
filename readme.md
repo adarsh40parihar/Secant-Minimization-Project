@@ -11,7 +11,7 @@ This project is a web application for finding the minimum of a function using th
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/adarsh40parihar/secant-minimization.git
+git clone https://github.com/adarsh40parihar/Secant-Minimization-Project.git
 cd secant-minimization
 ```
 
@@ -71,6 +71,6 @@ http://localhost:5173
 3. Click "Minimize" to compute the minimum.
 4. View the results and function graph.
 
-```
+---
 
 

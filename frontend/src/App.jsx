@@ -123,7 +123,7 @@ function App() {
 
       {/* Iterations Display */}
       {result && result.iterations && result.iterations.length > 0 && (
-        <div className="mt-6 w-full max-w-2xl">
+        <div className="mt-6 w-full max-w-3xl">
           <h2 className="text-2xl font-semibold text-white text-center">
             Iterations
           </h2>
